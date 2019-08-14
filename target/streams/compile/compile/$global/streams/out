@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/mnt/c/Users/Takayuki/Documents/dragon/Main.scala:3:12: identifier expected but '=' found.[0m
+[0m[[0m[31merror[0m] [0m[0m    val w: = new Wrapper(9)[0m
+[0m[[0m[31merror[0m] [0m[0m           ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
